@@ -5,5 +5,5 @@ A simple point and click rocket defense game made in ASL (a subset of Racket)
 
 To play, download and run the Flak-Man.dmg file above!
 
-# Dependencies: #
+#### Dependencies: ####
 [github.com/GregorKiczales/spd](https://github.com/GregorKiczales/spd)
